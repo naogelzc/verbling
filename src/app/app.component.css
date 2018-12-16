@@ -1,0 +1,27 @@
+.bg{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0px;
+    padding: 0px;
+    z-index: 1;
+    background-image: url(https://cdn.verbling.com/static/img/landing/5f9a64fa551bc37665c827452b269637.lady-laptop.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bg2{
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0px;
+    padding: 0px;
+    z-index: 1;
+    background: #EEF9FD;
+}
