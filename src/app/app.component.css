@@ -25,6 +25,8 @@
     z-index: 1;
     background: #EEF9FD;
 }
+
+
 .btn-default.btn-outline {
     background-color: transparent;
     border-color: #0699cd;
@@ -135,3 +137,10 @@ button, input, optgroup, select, textarea {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
+
+#freeTrial{
+    cursor: pointer;    
+}
+#freeTrial:hover{  
+    background: skyblue;
+} 
