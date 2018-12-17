@@ -25,3 +25,113 @@
     z-index: 1;
     background: #EEF9FD;
 }
+.btn-default.btn-outline {
+    background-color: transparent;
+    border-color: #0699cd;
+    color: #0699cd;
+}
+.btn-lg.btn-tall {
+    padding: 28.8px;
+    padding: 1.8rem;
+}
+.btn.btn-tall {
+    padding: 19.2px;
+    padding: 1.2rem;
+}
+.margin-top-xl {
+    margin-top: 16px!important;
+}
+.btn-lg {
+    font-size: 28.496px;
+    font-size: 1.781rem;
+    letter-spacing: -.56px;
+    letter-spacing: -.035rem;
+    font-weight: 700;
+    border-radius: .6rem;
+    padding: 19.2px 28.8px;
+    padding: 1.2rem 1.8rem;
+}
+.btn {
+    -webkit-transition: all .5s cubic-bezier(.4,0,.2,1);
+    -o-transition: all .5s cubic-bezier(.4,0,.2,1);
+    transition: all .5s cubic-bezier(.4,0,.2,1);
+    font-size: 22.8px;
+    font-size: 1.425rem;
+    letter-spacing: -.448px;
+    letter-spacing: -.028rem;
+    font-weight: 700;
+    border-radius: .4rem;
+    padding: 12.8px 19.2px;
+    padding: .8rem 1.2rem;
+}
+.btn-rounder {
+    border-radius: 40px!important;
+}
+.btn-group-lg>.btn, .btn-lg {
+    padding: 12px;
+    font-size: 18px;
+    line-height: 1.33;
+    border-radius: 6px;
+}
+.btn-default {
+    color: #fff;
+    background-color: #0699cd;
+    border-color: #fff;
+    border-color: hsla(0,0%,100%,0);
+}
+.btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: inherit;
+    text-align: center;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 10px;
+    font-size: 14.25px;
+    line-height: 1.66667;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+button, html input[type=button], input[type=reset], input[type=submit] {
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+button, select {
+    text-transform: none;
+}
+button {
+    overflow: visible;
+}
+button, input, optgroup, select, textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+*, :after, :before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
