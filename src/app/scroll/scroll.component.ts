@@ -11,5 +11,5 @@ export class ScrollComponent implements OnInit {
 
   ngOnInit() {
   }
-
+  
 }
